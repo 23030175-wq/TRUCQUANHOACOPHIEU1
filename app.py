@@ -24,7 +24,7 @@ st.image("logo.jpg")
 # TIÊU ĐỀ
 # =============================
 st.title("📈 TRỰC QUAN HÓA GIÁ CỔ PHIẾU VÀ KIỂM ĐỊNH MANN-KENDALL")
-st.subheader("TS. VŨ ĐỨC BÌNH")
+st.subheader("SV.TRẦN CÔNG TUYỀN")
 
 st.markdown("---")
 
